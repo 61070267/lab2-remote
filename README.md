@@ -6,7 +6,8 @@
 ### **StudentID** : 61070267
 ### **Name** : Ammara Donglong
 ### <br>
-><br> *king mongkut's institute of technology ladkrabang*<br><br>
+><br><ins>[*IT @ KMITL*](https://www.it.kmitl.ac.th )<br><br>
 ```
-print("hello world") 
+ print("Hello world, IT @ KMITL")
 ```
+[![Build Status](https://www.it.kmitl.ac.th/wp-content/themes/itkmitl2017wp/img/nav-thai.svg)](https://www.it.kmitl.ac.th)
